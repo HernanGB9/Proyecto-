@@ -1,8 +1,5 @@
 # Dispensadora de jugo de naranja
 
-## Intruciones "# Proyecto-Sigfrido" 
-"# Proyecto-"  
-"# Proyecto-"  
-"# Proyecto-"  
-"# Proyecto-"  
-"# Proyecto-"  
+## Intruciones
+### En esta interfaz se encontraran las maneras para poder acceder de manera didactica a su configuracion de losw ajustes de su maquina.
+ 
