@@ -1,5 +1,5 @@
 # Dispensadora de jugo de naranja
 
-## Intruciones
-### En esta interfaz se encontraran las maneras para poder acceder de manera didactica a su configuracion de losw ajustes de su maquina.
+## Introduccion:
+### En el repositorio se estaran agregando diferentes archivos en el cual nos enfocaremos en ir mejorando la interfaz y comunicacion de la produccion.
  
