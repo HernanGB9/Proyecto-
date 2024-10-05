@@ -3,3 +3,5 @@ pygame
 kivy
 Pillow
 moviepy
+bleak
+pywifi
